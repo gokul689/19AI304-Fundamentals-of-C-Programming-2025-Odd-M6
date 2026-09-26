@@ -1,4 +1,4 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
+[# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
 # IAPR-6- Module 6 - FoC
 ## 11. Implementation of the concept of pointer to function.
 ## 12. Implementation of programs using structure and union.
@@ -207,3 +207,4 @@ Thus, the program was implemented and executed successfully, and the required ou
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
+](https://github.com/gokul689/19AI304-Fundamentals-of-C-Programming-2025-Odd-M6/blob/main/README.md)
